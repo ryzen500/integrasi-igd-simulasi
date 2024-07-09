@@ -398,8 +398,8 @@
 
       // var url = 'http://192.168.30.194/helpdesk-api-dashboard/panggilDataPendaftaran.php';
 
-        var url =  '<?php echo site_url('user/Dashboard/getData'); ?>';
-    //   var url = 'http://helpdesk.myftp.org:998/helpdesk-api-dashboard/panggilDataPendaftaran.php';
+        // var url =  '<?php echo site_url('user/Dashboard/getData'); ?>';
+      var url = 'http://helpdesk.myftp.org:998/helpdesk-api-dashboard/panggilDataPendaftaran.php';
 
       var divisi_pelapor = 'http://helpdesk.myftp.org:998/helpdesk-api-dashboard/panggilDataPendaftaran.php';
 
