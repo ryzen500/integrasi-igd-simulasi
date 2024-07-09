@@ -23,7 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://damarteknik.my.id/integrasi-igd-simulasi/';
+// $config['base_url'] = 'https://damarteknik.my.id/integrasi-igd-simulasi/';
+$config['base_url'] = 'http://helpdesk.myftp.org:998/igd-internal/';
+
 // $config['base_url'] = 'http://192.168.30.194/helpdesk/';
 
 /*
