@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'https://damarteknik.my.id/integrasi-igd-simulasi/';
-$config['base_url'] = 'http://192.168.214.103:998/integrasi-igd-ip/';
+$config['base_url'] = 'http://192.168.214.103:998/igd-internal-ip/';
 
 // $config['base_url'] = 'http://192.168.30.194/helpdesk/';
 
